@@ -1,0 +1,26 @@
+{
+  "name": "currency-converter-package",
+  "version": "1.0.0",
+  "description": "An npm package to convert currency",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mukundbansal10/currency-converter-package.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Mukund Bansal",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Mukundbansal10/currency-converter-package/issues"
+  },
+  "homepage": "https://github.com/Mukundbansal10/currency-converter-package#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  }
+}
